@@ -1,0 +1,10 @@
+^E:\CODE\LEARNING\GITHUB\LEARNING\LEARNING\09孙浩然_HOMEWORK1\FRAMEWORK2D\BUILD\CMAKEFILES\B486181E156B9A09ACD8320DFF61E8CC\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SE:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D -BE:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D/build/USTC_CG_2025_Framework2D.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

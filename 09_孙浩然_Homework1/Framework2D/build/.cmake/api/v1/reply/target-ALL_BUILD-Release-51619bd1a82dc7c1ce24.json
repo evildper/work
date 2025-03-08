@@ -1,0 +1,52 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "glad::@037116246cbfaaeb5504"
+		},
+		{
+			"id" : "imgui::@037116246cbfaaeb5504"
+		},
+		{
+			"id" : "common::@af79f3804eddddbfa7f1"
+		},
+		{
+			"id" : "1_MiniDraw::@10beab6fd1a95d9a419f"
+		},
+		{
+			"id" : "glfw::@d5fdcda1ec52eb23cf38"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

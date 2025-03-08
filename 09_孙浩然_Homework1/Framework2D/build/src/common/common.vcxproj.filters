@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\src\common\image_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\src\common\window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\include\common\image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\include\common\image_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\include\common\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\include\common\window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\src\common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6F08EC09-2F1A-307D-A9C1-29274294A011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{25FAFBF3-DCF3-32E6-90A7-5C946A108F9C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

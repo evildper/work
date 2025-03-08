@@ -1,0 +1,10 @@
+^E:\CODE\LEARNING\GITHUB\LEARNING\LEARNING\09孙浩然_HOMEWORK1\FRAMEWORK2D\THIRD_PARTY\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SE:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D -BE:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D/build --check-stamp-file E:/code/learning/github/learning/learning/09孙浩然_Homework1/Framework2D/build/third_party/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

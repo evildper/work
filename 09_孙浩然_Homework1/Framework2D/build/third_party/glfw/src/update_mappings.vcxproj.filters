@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\build\CMakeFiles\8b4dbfd414bf9b66c84ae5ed68b82632\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\third_party\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\third_party\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\third_party\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="E:\code\learning\github\learning\learning\09孙浩然_Homework1\Framework2D\build\third_party\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{92E8C4A7-C7D7-3CB8-93A8-BBAFE3BDD43F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6F08EC09-2F1A-307D-A9C1-29274294A011}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
